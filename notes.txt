@@ -1,0 +1,2 @@
+1. Install rabbit mq locally
+2. Run it - rabbitmq-server
